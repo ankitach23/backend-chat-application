@@ -115,5 +115,5 @@ Make sure to include the appropriate request headers for authentication (e.g., u
 - User Logout: `POST /api/logout/`
 - Get Online Users: `GET /api/online-users/`
 - Start a Chat: `POST /api/chat/start/`
-- Send a Message: `WEBSOCKET /api/chat/send/`
+- Send a Message: `POST /api/chat/send/`
 - Recommended Friends: `GET /api/suggested-friends/<user_id>/`
