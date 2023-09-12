@@ -16,7 +16,7 @@ Follow these steps to run the Django Chat Application:
 2. Navigate to the project directory:
 
    ``` shell
-   cd chat_project
+   cd cd chat_project
    ```
 
 3. Create a virtual environment (optional but recommended):
