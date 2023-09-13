@@ -10,7 +10,7 @@ Follow these steps to run the Django Chat Application:
 1. Clone the project repository to your local machine:
 
    ``` shell
-   git clone https://github.com/inishantxchandel/django-chat-application.git
+   git clone https://github.com/ankitach23/backend-chat-application.git
    ```
 
 2. Navigate to the project directory:
